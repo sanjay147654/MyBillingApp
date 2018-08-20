@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "594722066919",
+    "firebase_url": "https://my-billing-app.firebaseio.com",
+    "project_id": "my-billing-app",
+    "storage_bucket": "my-billing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594722066919:android:6685d4c094b8d5e6",
+        "android_client_info": {
+          "package_name": "com.example.raji.mybillingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594722066919-pbt7m9fceod50k5v1mj29a57hfefb1dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuCXKya0dNpZdVWSMUO3OSmcQsES2wzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
